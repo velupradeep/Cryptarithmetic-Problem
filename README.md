@@ -106,12 +106,8 @@ else:
     print("No solution found.")
 
 ```
-
-
-<hr>
-<h2>Sample Input and Output:</h2>
-![370979626-37028d02-787a-4d0f-9037-a7cb2c205dcb](https://github.com/user-attachments/assets/e2931b76-8ea7-4a55-9aed-c66779d38bcb)
-
+## OUTPUT:
+![370979626-37028d02-787a-4d0f-9037-a7cb2c205dcb](https://github.com/user-attachments/assets/a230ed41-2e7b-4903-b83f-52cbc1c004be)
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
