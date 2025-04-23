@@ -110,7 +110,8 @@ else:
 
 <hr>
 <h2>Sample Input and Output:</h2>
-![370979626-37028d02-787a-4d0f-9037-a7cb2c205dcb](https://github.com/user-attachments/assets/be7a1a8b-c2ed-4ec3-a5d3-28e72985c83e)
+![370979626-37028d02-787a-4d0f-9037-a7cb2c205dcb](https://github.com/user-attachments/assets/e2931b76-8ea7-4a55-9aed-c66779d38bcb)
+
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
