@@ -110,10 +110,7 @@ else:
 
 <hr>
 <h2>Sample Input and Output:</h2>
-SEND = 9567<br>
-MORE = 1085<br>
-<hr>
-MONEY = 10652<br>
-<hr>
+![370979626-37028d02-787a-4d0f-9037-a7cb2c205dcb](https://github.com/user-attachments/assets/be7a1a8b-c2ed-4ec3-a5d3-28e72985c83e)
+
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
